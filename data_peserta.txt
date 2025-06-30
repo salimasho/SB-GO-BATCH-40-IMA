@@ -2,7 +2,7 @@ Data Peserta Bootcamp Digital Skill - Golang Backend Development
 1. Nama: Salimatussholati Az Zahra
 2. Email: imaazzahra38@gmail.com
 3. Sistem Operasi yang digunakan: Windows
-4. Akun Github: imskuy
+4. Akun Github: salimasho
 5. Akun Telegram: Salima Az Zahra
 6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : QA
 7. Umur: 22
